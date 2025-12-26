@@ -1,0 +1,7 @@
+python==3.13.1
+discord.py
+python-dotenv
+requests
+Pillow
+aiohttp
+
