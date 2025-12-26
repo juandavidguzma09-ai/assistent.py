@@ -1,4 +1,4 @@
 discord.py
 aiosqlite
-import requests
-import-dotenv
+requests
+
